@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "PORT": "8888",
+        "MONGO_ATLAS_USERNAME": "vjmix",
+        "MONGO_ATLAS_PASSWORD": "Trackno.1",
+        "JWT_KEY": "thekey"
+    } 
+}
